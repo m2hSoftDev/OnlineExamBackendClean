@@ -35,9 +35,7 @@ build/
 src/main/resources/serviceAccountKey.json
 src/test/resources/serviceAccountKey.json
 # Ignore application configuration files
-src/main/resources/application.properties
 src/main/resources/application.yml
-src/test/resources/application.properties
 src/test/resources/application.yml
 # Ignore log files
 *.log
